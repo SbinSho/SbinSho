@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am suho park who is interested in backend-Development from South Korea.
+#### 안녕하십니까. 백엔드 개발자를 꿈꾸는 박수호 입니다.
 
 ---
 
